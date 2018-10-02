@@ -1,2 +1,2 @@
 # Reto1-github
-Proyecto guitarras Platzi
+Proyecto guitarras Platzi relizado por Uralberto
